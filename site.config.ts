@@ -55,11 +55,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: 'https://plastic-yumberry-49d.notion.site/About-6d75d41fa94047b98948746f5f26eb39?pvs=4'
+      pageId: '6d75d41fa94047b98948746f5f26eb39'
     },
     {
       title: 'Contact',
-      pageId: 'https://plastic-yumberry-49d.notion.site/Contact-c51bc6301a944b949e3aa6b35e20b92c?pvs=4'
+      pageId: 'c51bc6301a944b949e3aa6b35e20b92c'
     }
   ]
 })
